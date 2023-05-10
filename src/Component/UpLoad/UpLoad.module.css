@@ -1,0 +1,28 @@
+.main{
+  background-color: rgba(82,86,173,255);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper{
+  background-color: rgba(153,158,222,255);
+  height: 40vh;
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8vh;
+  font-weight: 700;
+  color: white;
+  border-radius:10px
+}
+
+.wrapper input{
+  background-color: rgba(82,86,173,255);
+  padding: 1rem;
+  border-radius: 10px;
+}
